@@ -165,6 +165,9 @@ section .title::after{
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
 }
+.background-image {
+    background-image: url('background.jpg');
+}
 .home .home-content {
     margin-top: 4rem;
 }
@@ -584,6 +587,9 @@ footer span a:hover{
         display: inline-block;
         margin: 20px 0;
         font-size: 25px;
+    }
+    .background-image {
+        background-color: #111;
     }
     .home .home-content .text-2{
         font-size: 70px;
