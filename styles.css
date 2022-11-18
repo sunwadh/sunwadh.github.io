@@ -166,7 +166,7 @@ section .title::after{
     font-family: 'Ubuntu', sans-serif;
 }
 .background-image {
-    background-image: url('background.jpg');
+    background-image: url('images/background.jpg');
 }
 .home .home-content {
     margin-top: 4rem;
